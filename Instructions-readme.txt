@@ -1,6 +1,6 @@
 Th0rheim Community Server
 All the required mods conveniently packed in to one modpack!
-
+If you would rather use a modloader, you can find the modpack on Thunderstore: https://thunderstore.io/c/valheim/p/Th0rheim/Th0rheim/
 
 === Install instructions ===
 
