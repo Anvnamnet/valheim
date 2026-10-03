@@ -6,18 +6,22 @@ If you would rather use a modloader, you can find the [modpack on Thunderstore.]
 
 ## Install  AND Update Instructions
 
-### 1. Open the folder called **"Open and move content"**
+### 1. Click the green Code button above this window and click **Download ZIP**
 
-### 2. Copy all the files in the folder
+<img width="443" height="435" alt="image" src="https://github.com/user-attachments/assets/d8f0418e-dda6-4f12-8457-a4810a16935a" />
 
-### 3. Open the local Valheim files.
+### 2. Open the folder called **"Open and move content"**
+
+### 3. Copy all the files in the folder
+
+### 4. Open the local Valheim files.
 
 **These can easily be found if you:**
  1. **Right click** Valheim in your Steam Library
  2. Hover over **Manage**
  3. Click **Browse Local Files**
 
-### 4. Paste content from <u>step 1</u> straight in to that folder.
+### 5. Paste content from <u>step 1</u> straight in to that folder.
 Example where:<br>
 `C:\Games\Steam\steamapps\common\Valheim`
 
